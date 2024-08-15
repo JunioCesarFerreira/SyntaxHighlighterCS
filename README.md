@@ -1,6 +1,6 @@
 # SyntaxHighlighter em C#
 
-🌍 *[Português](README.md) ∙ [English](README_en.md)*
+🌍 *[**Português**](README.md) ∙ [English](README_en.md)*
 
 ### Descrição
 Este projeto é uma aplicação de editor de textos com destaque de sintaxe, construída usando C# e Windows Forms. Ele suporta o realce de sintaxe para as seguintes linguagens: JSON, XML, SQL, C++. O realçador ajusta dinamicamente a cor do texto em uma RichTextBox com base na linguagem selecionada, melhorando a legibilidade e a experiência de edição.
