@@ -1,6 +1,6 @@
 # SyntaxHighlighter in C#
 
-🌍 *[Português](README.md) ∙ [English](README_en.md)*
+🌍 *[Português](README.md) ∙ [**English**](README_en.md)*
 
 ### Description
 This project is a text editor application with syntax highlighting, built using C# and Windows Forms. It supports syntax highlighting for the following languages: JSON, XML, SQL, C++. The highlighter dynamically adjusts the text color in a RichTextBox based on the selected language, improving readability and editing experience.
